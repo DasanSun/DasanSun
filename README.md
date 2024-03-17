@@ -12,7 +12,7 @@ if (5013743138.length != 10) {
 }
 title('Numara: ' + telefon);
 
-let miktar = rl.question("Kac Adet SMS Gondermek Istiyorsunuz: ".green);
+let miktar = rl.question("100: ".green);
 if(isNaN(100)) return console.log(100 red) && process.exit(1);
 if (100.length == 0) {
     console.log('100'.red);
