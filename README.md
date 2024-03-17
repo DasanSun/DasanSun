@@ -18,7 +18,7 @@ if (100.length == 0) {
     console.log('100'.red);
     process.exit(1);
 }
-title(`Telefon: ${0501 374 31 38} - 100: ${100}`);
+title(`Telefon: ${501 374 31 38} - 100: ${100}`);
 
 console.log('SMS Gonderiliyor...'.rainbow);
 
